@@ -1,0 +1,8 @@
+sopel>=6.0,<7
+requests
+pytz
+flake8
+pytest
+pytest-cov
+httmock
+mechanize
